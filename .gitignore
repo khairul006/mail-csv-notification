@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Secrets (DO NOT REMOVE)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Data/Logs
+data/*.csv
+*.log
+
+# Editor settings
+.vscode/

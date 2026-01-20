@@ -1,0 +1,51 @@
+transaction_id,transaction_date,customer_name,product_category,amount,status
+1,2026-01-01 11:45:37.174956,Edward Norton,Electronics,483.83,Refunded
+2,2026-01-02 14:33:09.553411,Bob Jones,Clothing,138.44,Completed
+3,2026-01-11 04:00:14.656242,Alice Smith,Garden,378.89,Pending
+4,2025-12-23 15:49:57.838967,Diana Prince,Groceries,376.34,Completed
+5,2025-12-24 18:59:17.404862,Alice Smith,Home Decor,139.72,Refunded
+6,2025-12-30 01:55:09.866094,Charlie Brown,Clothing,221.16,Refunded
+7,2026-01-05 23:22:42.756323,Bob Jones,Clothing,131.74,Completed
+8,2026-01-04 22:29:17.338546,Edward Norton,Clothing,406.24,Pending
+9,2026-01-16 08:58:33.536392,Charlie Brown,Clothing,261.16,Completed
+10,2026-01-20 19:20:46.835124,Bob Jones,Home Decor,455.73,Pending
+11,2025-12-29 06:42:35.100179,Edward Norton,Home Decor,168.05,Refunded
+12,2025-12-30 04:09:53.287231,Diana Prince,Garden,417.61,Pending
+13,2026-01-08 22:46:03.692696,Diana Prince,Home Decor,284.02,Pending
+14,2025-12-29 01:46:43.721727,Bob Jones,Garden,82.59,Completed
+15,2025-12-28 01:01:14.038848,Charlie Brown,Garden,26.42,Refunded
+16,2026-01-06 02:47:27.791250,Alice Smith,Clothing,120.26,Pending
+17,2025-12-22 05:44:43.116127,Bob Jones,Home Decor,232.71,Pending
+18,2026-01-12 06:34:08.138404,Edward Norton,Home Decor,184.93,Pending
+19,2026-01-15 22:16:53.571796,Alice Smith,Home Decor,201.16,Pending
+20,2026-01-08 06:56:34.909103,Charlie Brown,Groceries,324.04,Pending
+21,2025-12-22 23:45:01.184096,Charlie Brown,Electronics,193.08,Pending
+22,2025-12-26 07:57:49.517499,Alice Smith,Groceries,394.18,Pending
+23,2025-12-25 05:20:15.696108,Diana Prince,Home Decor,357.31,Refunded
+24,2025-12-22 22:03:50.784135,Alice Smith,Home Decor,101.89,Completed
+25,2025-12-31 00:30:25.195604,Charlie Brown,Garden,251.96,Completed
+26,2025-12-25 01:22:51.280154,Alice Smith,Garden,473.19,Refunded
+27,2026-01-17 01:30:25.631523,Edward Norton,Home Decor,262.81,Pending
+28,2026-01-17 14:32:09.263461,Bob Jones,Home Decor,222.08,Refunded
+29,2026-01-06 02:01:04.418784,Edward Norton,Clothing,118.1,Pending
+30,2026-01-04 17:09:08.103021,Alice Smith,Garden,205.89,Completed
+31,2026-01-10 16:59:01.145648,Edward Norton,Electronics,300.85,Refunded
+32,2026-01-13 10:47:34.786401,Diana Prince,Garden,94.17,Refunded
+33,2025-12-24 12:22:40.020201,Charlie Brown,Electronics,489.48,Refunded
+34,2026-01-11 11:19:41.769552,Alice Smith,Clothing,135.79,Pending
+35,2026-01-08 10:27:22.103523,Charlie Brown,Groceries,380.81,Refunded
+36,2026-01-03 06:30:13.029500,Alice Smith,Electronics,508.59,Pending
+37,2026-01-04 10:16:56.400672,Alice Smith,Electronics,480.39,Refunded
+38,2026-01-06 01:12:24.735188,Charlie Brown,Clothing,437.42,Completed
+39,2026-01-03 07:23:19.080089,Bob Jones,Electronics,224.36,Pending
+40,2026-01-19 16:08:26.599143,Diana Prince,Clothing,126.55,Refunded
+41,2025-12-31 16:51:20.737284,Edward Norton,Home Decor,215.56,Refunded
+42,2026-01-02 08:09:56.176117,Charlie Brown,Clothing,328.95,Refunded
+43,2026-01-14 04:23:25.186090,Diana Prince,Groceries,240.66,Completed
+44,2026-01-09 09:03:33.056521,Diana Prince,Garden,83.31,Refunded
+45,2026-01-08 15:46:29.423672,Bob Jones,Groceries,385.01,Completed
+46,2026-01-04 15:41:50.576425,Charlie Brown,Home Decor,84.77,Pending
+47,2026-01-16 11:39:41.001283,Bob Jones,Garden,114.64,Completed
+48,2026-01-16 20:00:06.752307,Bob Jones,Clothing,112.0,Refunded
+49,2026-01-16 20:12:57.923360,Charlie Brown,Electronics,56.44,Refunded
+50,2026-01-18 00:59:10.469363,Charlie Brown,Home Decor,253.6,Refunded
